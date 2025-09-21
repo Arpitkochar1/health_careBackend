@@ -69,6 +69,3 @@ GET /api/mappings/{patient_id}/
 
 DELETE /api/mappings/{patient_id}/
 
-✅ That’s it — short, clean, and ready for your submission.
-
-Do you also want me to write a 1–2 line project summary (like an intro sentence) you can use in your resume under "Projects"?
